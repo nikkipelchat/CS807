@@ -2,6 +2,7 @@
 ### The Platform and Final Project Code
 **Reminder when marking my commits, I work 8-5 Monday-Friday so there will be minimal to no commits those days**
 
+URL to weather station: https://www.wunderground.com/personal-weather-station/dashboard?ID=ISASKATC113
 
 
 ### Documentation Used - Weather Shield from Spark fun for Arduino
