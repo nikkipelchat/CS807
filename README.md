@@ -5,7 +5,7 @@
 URL to weather station: https://www.wunderground.com/personal-weather-station/dashboard?ID=ISASKATC113
 
 
-### Documentation Used - Weather Shield from Spark fun for Arduino
+### Documentation Used
 ----
 * **[Arduino sketch](https://github.com/sparkfun/Weather_Shield/blob/master/firmware/Weather_Shield/Weather_Shield.ino)** - Arduino sketch from SparkFun repository. Found link [here](https://www.sparkfun.com/products/12081) under GitHub link.
 * **[Electric Imp Agent and Device code](https://github.com/sparkfun/Wimp_Weather_Station)** - Agent and Device code from SparkFun repository.
