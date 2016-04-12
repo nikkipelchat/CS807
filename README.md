@@ -17,9 +17,9 @@ URL to weather station: https://www.wunderground.com/personal-weather-station/da
 ----
 This is a photo of the first day I moved it outside.  It is being held up by a sawhorse!
 
-![Wind Speed, Wind Direction, and Rain Gauge](https://raw.githubusercontent.com/nikkistonge/CS807/master/WeatherStationOutside.JPG)
+![Wind Speed, Wind Direction, and Rain Gauge](https://raw.githubusercontent.com/nikkistonge/CS807/master/WeatherStationOutside.png)
 
 
 I spent a while wondering why the temperature wasn't correct and it was because I left the Arduino Weather Shield inside!  The sign was a bonus :)
 
-![Need to move this outside!](https://raw.githubusercontent.com/nikkistonge/CS807/master/NeedToMoveOutside.JPG)
+![Need to move this outside!](https://raw.githubusercontent.com/nikkistonge/CS807/master/NeedToMoveOutside.png)
